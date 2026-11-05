@@ -1,4 +1,4 @@
-# SEO & Web Analytics Dashboard
+# SEO & Web Analytics 
 
 ## Project Overview
 
