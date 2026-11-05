@@ -65,7 +65,8 @@ The dashboard tracks the following key performance indicators:
 The dashboard provides a centralized view of website analytics and SEO performance, helping monitor traffic changes, evaluate search visibility, identify trends, and discover potential areas for improvement.
 
 ## Dashboard Preview
-![SEO & Web Analytics Dashboard](SEO-Web-Analytics/SEO-Web-Analytics.png)
+
+![SEO Web Analytics Dashboard](./SEO-Web-Analytics.png)
 
 ## Data Confidentiality
 
