@@ -1,5 +1,5 @@
 
-# Project Financial Analytics Dashboard
+# Project Financial Analytics 
 
 ## Project Overview
 
