@@ -66,7 +66,7 @@ The dashboard provides a centralized view of website analytics and SEO performan
 
 ## Dashboard Preview
 
-![SEO & Web Analytics Dashboard](../seo-web-analytics-dashboard.png)
+![SEO & Web Analytics Dashboard](../SEO-Web-Analytics.png)
 
 ## Data Confidentiality
 
