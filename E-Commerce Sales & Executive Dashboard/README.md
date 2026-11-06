@@ -75,6 +75,10 @@ These insights support more informed decisions regarding sales strategies, produ
 
 ![E-Commerce Sales & Executive Dashboard](./ecommerce_sales_dashboard.png)
 
+## Live Dashboard
+
+[View Interactive Dashboard – Looker Studio](https://datastudio.google.com/reporting/477e8c16-d535-4231-909c-704ae4d478ec/page/LhQ9F)
+
 ## Data Confidentiality
 
 This project was developed using anonymized sample/client e-commerce data. Identifying details, proprietary identifiers, and sensitive business information have been masked or modified for portfolio presentation.
