@@ -72,7 +72,7 @@ It helps businesses:
 
 ## Dashboard Preview
 
-![Sales Performance Dashboard](screenshots/sales_dashboard_preview.png)
+[View Sales Performance Dashboard](screenshots/sales_dashboard_preview.png)
 
 ## Project Files
 
