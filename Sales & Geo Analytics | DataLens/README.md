@@ -75,7 +75,7 @@ These insights can support better sales planning, marketing decisions, and logis
 
 ## Dashboard Preview
 
-![Yandex DataLens Sales & Geospatial Analytics Dashboard](./sales_datalens_dashboard.png)
+![Sales & Geospatial Analytics Dashboard](./Sales_Geographic_Analysis.png)
 
 ## Data Confidentiality
 
