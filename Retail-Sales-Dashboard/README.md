@@ -87,7 +87,7 @@ This dashboard provides a centralized view of retail sales performance and helps
 
 ## Project Files
 
-- [Download Power BI Dashboard (.pbix)](https://github.com/quant-ghost/data-analytics-portfolio/releases/download/v1.0/sales_dashboard.pbix)
+- [Download Power BI Dashboard (.pbix)](https://github.com/quant-ghost/data-analytics-portfolio/releases/download/v1.1/Retail_Sales_Dashboard.pbix)
 
 
 The Power BI source file is available for download and can be opened using Microsoft Power BI Desktop.
