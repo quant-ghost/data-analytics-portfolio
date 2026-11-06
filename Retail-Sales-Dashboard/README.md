@@ -83,7 +83,7 @@ This dashboard provides a centralized view of retail sales performance and helps
 
 ## Dashboard Preview
 
-![Retail Sales Dashboard Preview](./sales_dashboard_preview.png)
+![Retail Sales Dashboard](./sales_dashboard_preview.png)
 
 ## Project Files
 
