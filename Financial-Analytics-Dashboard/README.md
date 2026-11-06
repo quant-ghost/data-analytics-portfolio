@@ -7,7 +7,6 @@ This project focuses on analyzing project finances, tracking budgets, and monito
 
 The dashboard provides a centralized view of total contract amounts, incoming cash flow (revenue), expenditures, and remaining balances across multiple projects.
 
-![Projects Financial Analytics Dashboard](./Projects-Financial-Analytics.png)---
 
 ## Business Objective
 
@@ -66,6 +65,10 @@ The dashboard tracks the following key performance indicators:
 ## Business Value
 
 The dashboard provides a centralized and transparent view of project finances, helping managers identify budget overruns, monitor spending patterns, evaluate budget utilization, and make informed financial decisions.
+
+## Dashboard Overview
+
+![Projects Financial Analytics Dashboard](./Projects-Financial-Analytics.png)---
 
 ---
 
