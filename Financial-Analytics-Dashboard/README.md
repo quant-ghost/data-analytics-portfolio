@@ -12,7 +12,7 @@ The dashboard provides a centralized view of total contract amounts, incoming ca
 
 The main objective is to monitor budget execution, track planned vs. actual costs, evaluate financial performance, and support data-driven decision-making for better financial control and resource allocation.
 
----
+
 
 ## Data Sources & Workflow
 
@@ -20,14 +20,14 @@ The main objective is to monitor budget execution, track planned vs. actual cost
 - **Data Preparation:** Google Sheets was used to organize, clean, and structure financial datasets, contracts, and expense categories.
 - **Dashboard Development:** The prepared data was integrated into Power BI to develop an interactive dashboard for financial monitoring and reporting.
 
----
+
 
 ## Tools & Technologies
 
 - **Google Sheets:** Data collection, organization, cleaning, and initial financial data preparation.
 - **Power BI:** Data integration, data modeling, KPI development, data visualization, and interactive financial reporting.
 
----
+
 
 ## Data Analysis & Preparation
 
@@ -36,7 +36,7 @@ The main objective is to monitor budget execution, track planned vs. actual cost
 - Calculated financial variances, including plan vs. actual differences and remaining balances.
 - Developed interactive visualizations, tables, and filters to support financial analysis.
 
----
+
 
 ## Key Metrics & KPIs
 
@@ -49,7 +49,7 @@ The dashboard tracks the following key performance indicators:
 - **Plan vs. Actual:** Comparison of planned budgets against actual expenses.
 - **Progress (%):** Percentage of budget utilization or project financial progress.
 
----
+
 
 ## Dashboard Features
 
@@ -60,7 +60,7 @@ The dashboard tracks the following key performance indicators:
 - Interactive filters for exploring financial data.
 - Clear performance indicators for monitoring budget execution.
 
----
+
 
 ## Business Value
 
@@ -70,7 +70,7 @@ The dashboard provides a centralized and transparent view of project finances, h
 
 ![Projects Financial Analytics Dashboard](./Projects-Financial-Analytics.png)---
 
----
+
 
 ## Data Confidentiality
 
