@@ -72,8 +72,7 @@ It helps businesses:
 
 ## Dashboard Preview
 
-[View Sales Performance Dashboard](screenshots/sales_dashboard_preview.png)
-
+![Sales Dashboard Preview](./sales_dashboard_preview.png)
 ## Project Files
 
 - [Download Power BI Dashboard (.pbix)](https://github.com/quant-ghost/data-analytics-portfolio/releases/download/v1.0/Sales.Performance.Dashboard.pbix)
