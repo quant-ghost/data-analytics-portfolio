@@ -68,7 +68,7 @@ The dashboard provides a centralized and transparent view of project finances, h
 
 ## Dashboard Overview
 
-![Projects Financial Analytics Dashboard](./Projects-Financial-Analytics.png)---
+![Projects Financial Analytics Dashboard](./Projects-Financial-Analytics.png)
 
 
 
